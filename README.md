@@ -1,4 +1,5 @@
 # CogCanvas-RL 
+[discontinued]
 
 A small reinforcement learning project where an AI agent edits a canvas step-by-step to solve a visual task by placing marks on a grid to match a target pattern.
 
